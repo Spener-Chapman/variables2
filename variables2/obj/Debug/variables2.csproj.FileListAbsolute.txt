@@ -1,0 +1,7 @@
+C:\Users\w0438214\OneDrive - Nova Scotia Community College\LogPro\variables2\variables2\obj\Debug\variables2.csproj.AssemblyReference.cache
+C:\Users\w0438214\OneDrive - Nova Scotia Community College\LogPro\variables2\variables2\obj\Debug\variables2.csproj.CoreCompileInputs.cache
+C:\Users\w0438214\OneDrive - Nova Scotia Community College\LogPro\variables2\variables2\bin\Debug\variables2.exe.config
+C:\Users\w0438214\OneDrive - Nova Scotia Community College\LogPro\variables2\variables2\bin\Debug\variables2.exe
+C:\Users\w0438214\OneDrive - Nova Scotia Community College\LogPro\variables2\variables2\bin\Debug\variables2.pdb
+C:\Users\w0438214\OneDrive - Nova Scotia Community College\LogPro\variables2\variables2\obj\Debug\variables2.exe
+C:\Users\w0438214\OneDrive - Nova Scotia Community College\LogPro\variables2\variables2\obj\Debug\variables2.pdb
