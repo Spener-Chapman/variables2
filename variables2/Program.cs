@@ -87,6 +87,30 @@ namespace variables2
             Console.WriteLine(intTest);
             Console.WriteLine(floatTest);
             Console.WriteLine(floatTest2);
+            Console.WriteLine("");
+
+            // -----order of execution-----
+
+            // tip: console.writeline() is a useful debugging tool
+
+            // order of execution
+            int lives;
+            lives = 3; // 3 lives at game start
+            lives = 10; // 10 lives is the last registered so 3 gets overwritten
+            Console.WriteLine("Lives: " + lives); 
+            lives = lives - 1;
+            Console.WriteLine("Lives: " + lives);
+
+            // -----formulas-----
+
+            // int score; // already declared
+            int enemyPoints;
+            enemyPoints = 100; // u want to save/store "magic numbers" into variables
+            
+            score = 0;
+            Console.WriteLine("score: " + score);
+            score = score + enemyPoints; // formula
+            Console.WriteLine("score: " + score);
 
             Console.ReadKey(true);
         }
